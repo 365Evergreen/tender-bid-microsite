@@ -4,6 +4,9 @@ A React + TypeScript frontend microsite that allows vendors to discover
 open tenders, register as bidders, and submit fully-formed bids with
 pricing, compliance declarations, and supporting documentation.
 
+**Live demo:** https://365evergreen.github.io/tender-bid-microsite/
+(MSW mock backend — register with any email or use demo@aurelia.eng.au / Demo1234!)
+
 Built on **Fluent UI v9** with an editorial/document-inspired aesthetic —
 Fraunces serif for display, Inter Tight for body, deep slate primary with
 warm gold accent on a parchment background. Government-grade without being
